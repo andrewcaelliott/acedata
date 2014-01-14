@@ -219,6 +219,7 @@ def xmlise(name, struc):
 
 #prettyPrint("", "test", {"a":10,"b":20})
 
+print "testing"
 #print xmlise("table",analyseTable("tsentityversion"))
 print xmlise("table",analyseTable("identifiedentity"))
 #analyseTable("property")
@@ -229,4 +230,3 @@ print xmlise("table",analyseTable("identifiedentity"))
 
 ###
 
-print "testing"

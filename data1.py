@@ -228,3 +228,5 @@ print xmlise("table",analyseTable("identifiedentity"))
 #analyseTable("qrtz_cron_triggers")
 
 ###
+
+print "testing"
